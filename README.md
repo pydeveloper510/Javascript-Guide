@@ -1,8 +1,3 @@
-
-[원문 En:https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
-
-[원문 Ko:https://github.com/tipjs/javascript-style-guide](https://github.com/tipjs/javascript-style-guide)
-
 # Airbnb JavaScript 스타일 가이드() {
 
 *JavaScript에 대한 대부분 합리적인 접근 방법*
