@@ -5,12 +5,6 @@
 
 *JavaScript에 대한 대부분 합리적인 접근 방법*
 
-다른 스타일 가이드들
- - [ES5](https://github.com/tipjs/javascript-style-guide/blob/master/es5.md)
- - [React](https://github.com/airbnb/javascript/tree/master/react)
- - [CSS & Sass](https://github.com/airbnb/css)
- - [Ruby](https://github.com/airbnb/ruby)
-
 ## 목차
 
   1. [형(Types)](#형types)
